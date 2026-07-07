@@ -1,5 +1,11 @@
 # 🩺 Cancer Risk Prediction using Machine Learning
 
+
+<p align="center">
+  <img src="images/banner.png" width="100%">
+</p>
+
+
 > An end-to-end Machine Learning pipeline for predicting cancer risk using patient health and lifestyle features.
 
 ---
